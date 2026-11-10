@@ -29,6 +29,33 @@ My interests connect three areas:
 
 I value practical problem-solving, continuous learning, and understanding how things work beyond the surface.
 
+### tech stack
+
+**Languages & Web**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,dart,js,ts,html,css&theme=dark" alt="Python, Java, Dart, JavaScript, TypeScript, HTML and CSS" />
+</div>
+
+**Frameworks, databases & development tools**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,flutter,postgres,sqlite,git,github,vscode&theme=dark" alt="React, Next.js, FastAPI, Flutter, PostgreSQL, SQLite, Git, GitHub and VS Code" />
+</div>
+
+**Systems & infrastructure**
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,arduino&theme=dark" alt="Linux, Windows, Bash and Arduino" />
+</div>
+
+<p>
+  <img src="https://img.shields.io/badge/Networking-TCP%2FIP-20252E?style=flat-square&labelColor=111820" alt="Networking: TCP/IP" />
+  <img src="https://img.shields.io/badge/Network_Analysis-Wireshark-20252E?style=flat-square&labelColor=111820" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Network_Scanning-Nmap-20252E?style=flat-square&labelColor=111820" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Messaging-MQTT-20252E?style=flat-square&labelColor=111820" alt="MQTT" />
+</p>
+
 ### projects
 
 | Project | Technologies | About |
